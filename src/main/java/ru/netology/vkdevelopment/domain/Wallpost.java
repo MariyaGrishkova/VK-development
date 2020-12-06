@@ -10,6 +10,7 @@ public class Wallpost {
     private int viewQuantity;
     private int likeQuantity;
     private int commentQuantity;
+    private boolean share;
     private int shareQuantity;
 
 
