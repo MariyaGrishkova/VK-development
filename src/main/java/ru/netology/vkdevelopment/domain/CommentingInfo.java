@@ -1,4 +1,4 @@
-package manager;
+package ru.netology.vkdevelopment.domain;
 
 public class CommentingInfo {
     private int count;

@@ -1,4 +1,4 @@
-package manager;
+package ru.netology.vkdevelopment.domain;
 
 public class PostData {
     private int postID;
